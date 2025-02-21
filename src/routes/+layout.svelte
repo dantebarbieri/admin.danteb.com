@@ -46,16 +46,8 @@
 						containers
 					</a>
 				</li>
-				<li>
-					<a
-						aria-current={page.route.id?.startsWith('/service') ? 'page' : undefined}
-						href="/service"
-					>
-						services
-					</a>
-				</li>
 			</ul>
-			<a class="logo" href="/">danteb.com</a>
+			<a class="logo" href="/">admin.danteb.com</a>
 		</div>
 	</nav>
 </header>
